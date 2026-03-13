@@ -1,0 +1,89 @@
+Info: Processing symbol 'C1:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'D1:LED_THT:LED_D5.0mm'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'Q1:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Total warnings: 0, errors: 0.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Updated C1 fields.
+Updated C1 sheetname to '/'.
+Updated C1 sheetfile to 'RF SIGNAL STRENGTH INDICATOR.kicad_sch'.
+Updated C1 footprint filters to 'C_*'.
+Add net /I.
+Connected C1 pin 1 to /I.
+Add net /B.
+Connected C1 pin 2 to /B.
+Added D1 (footprint 'LED_THT:LED_D5.0mm').
+Changed REF** reference designator to D1.
+Changed D1 value from LED_D5.0mm to 5mm LED.
+Updated D1 symbol association from  to /530a7041-b390-40ff-b938-40d6c8a23f81.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Updated D1 sheetfile to 'RF SIGNAL STRENGTH INDICATOR.kicad_sch'.
+Updated D1 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net /VCC.
+Connected D1 pin 2 to /VCC.
+Add net /L.
+Connected D1 pin 1 to /L.
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to J1.
+Changed J1 value from PinHeader_1x02_P2.54mm_Vertical to powersupply.
+Updated J1 symbol association from  to /dca68411-07c5-4d8d-a0e9-ea1e8e337510.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'RF SIGNAL STRENGTH INDICATOR.kicad_sch'.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Connected J1 pin 1 to /VCC.
+Add net /GND.
+Connected J1 pin 2 to /GND.
+Added J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical').
+Changed REF** reference designator to J2.
+Changed J2 value from PinHeader_1x01_P2.54mm_Vertical to ANTENNA.
+Updated J2 symbol association from  to /c04b8043-a38c-4a39-9275-63995f7abc4a.
+Updated J2 fields.
+Updated J2 sheetname to '/'.
+Updated J2 sheetfile to 'RF SIGNAL STRENGTH INDICATOR.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Connected J2 pin 1 to /I.
+Added C1 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Added Q1 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Changed REF** reference designator to Q1.
+Changed Q1 value from TO-92_Inline to BC547.
+Updated Q1 symbol association from  to /a61b2e29-e8ee-4d04-afce-94f35a7736c1.
+Updated Q1 fields.
+Updated Q1 sheetname to '/'.
+Updated Q1 sheetfile to 'RF SIGNAL STRENGTH INDICATOR.kicad_sch'.
+Updated Q1 footprint filters to 'TO?92*'.
+Add net /C.
+Connected Q1 pin 1 to /C.
+Connected Q1 pin 3 to /GND.
+Connected Q1 pin 2 to /B.
+Changed REF** reference designator to C1.
+Added R1 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R1.
+Changed R1 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 100K.
+Changed C1 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to 100N.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'RF SIGNAL STRENGTH INDICATOR.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Connected R1 pin 1 to /B.
+Connected R1 pin 2 to /GND.
+Updated C1 symbol association from  to /c95cdaf3-1db9-4846-94fe-0b18af24af8f.
+Added R2 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R2.
+Updated R1 symbol association from  to /4fdafe5d-0f2f-4ce4-b834-66a7f886ec65.
+Updated R2 symbol association from  to /403a2aba-4c64-4837-b5df-6fa6befc31c8.
+Updated R2 fields.
+Updated R2 sheetname to '/'.
+Updated R2 sheetfile to 'RF SIGNAL STRENGTH INDICATOR.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Connected R2 pin 2 to /C.
+Connected R2 pin 1 to /L.
+
+
+Changed R2 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 10K.
+
+
+Info: Total warnings: 0, errors: 0.
